@@ -1,5 +1,6 @@
 # useful-resource
 use full data for work
+
 # Frontend Design & Development Resources
 
 This README contains a curated list of useful tools and websites for front-end development and UI/UX design. Click the links below to explore the tools.
@@ -34,5 +35,10 @@ This README contains a curated list of useful tools and websites for front-end d
 
 ---
 
-Feel free to bookmark these tools and use them in your web development projects!
+### ⚛️ React Resources
 
+- [shadcn/ui](https://ui.shadcn.com/docs/components) – A collection of beautifully designed, customizable components for React projects.
+
+---
+
+Feel free to bookmark these tools and use them in your web development projects!
