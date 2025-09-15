@@ -28,6 +28,9 @@ Perfect for developers and designers who want to save time finding reliable reso
 - **[Animista](https://animista.net/play/basic)** – Explore and customize CSS animations with a variety of types and presets.  
 - **[CSS Gradient](https://cssgradient.io)** – Create and preview linear gradients with instant CSS code output.  
 - **[Layout by Brad Woods](https://layout.bradwoods.io/)** – Design and customise responsive layouts with a visual grid interface.  
+- **[Skiper UI](https://skiper-ui.com/)** – Prebuilt components and UI kits for rapid front-end development.  
+- **[Mixo](https://mixo.io/)** – Generate landing pages and web apps quickly using AI-powered templates.  
+- **[Orchids](https://www.orchids.app/)** – No-code platform to build responsive web apps visually.  
 
 ---
 
@@ -53,14 +56,29 @@ Perfect for developers and designers who want to save time finding reliable reso
 
 ---
 
+## 🌐 Backend & Fullstack Tools  
+- **[Appwrite](https://appwrite.io/)** – Open-source backend server for web, mobile, and Flutter applications.  
+- **[MGX](https://mgx.dev/)** – Modern, developer-friendly tools for building web applications and APIs.  
+
+---
+
 ## 🌐 Other Useful Links  
 - **[Y Combinator](https://www.ycombinator.com/)** – Startup incubator and resources. Great for tech news, startup advice, and funding insights.  
-- **[OpenRouter](https://openrouter.ai/)** – A unified API gateway for AI/LLMs. Gives access to many models from multiple providers through one API key. :contentReference[oaicite:0]{index=0}  
+- **[OpenRouter](https://openrouter.ai/)** – A unified API gateway for AI/LLMs. Gives access to many models from multiple providers through one API key.  
 
 ---
 
 ## ⚛️ React Resources  
 - **[shadcn/ui](https://ui.shadcn.com/docs/components)** – A collection of beautifully designed, customisable components for React projects.  
+
+---
+
+## 🌀 Animations & 3D/2D Resources
+- **[Spline](https://spline.design/)** – Create interactive 3D models and animations for web projects.  
+- **[Rive](https://rive.app/)** – Design and implement 2D animations for websites and apps.  
+- **[LottieFiles](https://lottiefiles.com/)** – Access and implement animated icons using lightweight JSON-based animations.  
+- **[ShaderGradient](https://shadergradient.co/)** – Create animated gradients for websites.  
+- **[Icons8](https://icons8.com/animated-icons)** – Animated illustrations and icons ready to use in projects.  
 
 ---
 
